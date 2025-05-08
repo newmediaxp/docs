@@ -27,7 +27,9 @@ There may be additional terms and conditions outside of what is covered in this 
 
 ## Information Collection And Use
 
-The software uses third party services to provide ads, in-app purchasing, cloud services, etc. that may collect information used to identify the user.
+We, ourselves, do not collect or store any personal information about the user and will not share or store information collected by any third party. 
+
+In some platforms, the software uses third party services to provide ads, in-app purchasing, cloud services, etc. that may collect information used to identify the user. The personal information that is collected is used for providing and improving the service.
 
 Privacy policies of these third party service providers :
 
@@ -35,15 +37,13 @@ Privacy policies of these third party service providers :
 * https://policies.google.com/privacy
 * https://www.yodo1.com/en/privacy/
 
-We, ourselves, do not collect or store any personal information about the players and will not share or store any information collected by any third party. The personal information that is collected is used for providing and improving the service.
-
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ---
 
 ## Changes
 
-This privacy policy may be updated as required from time to time. The concerned parties are advised to review this page periodically for any changes. These changes are effective immediately after they are published on this page.
+This privacy policy may be updated from time to time. The concerned parties are advised to review this page periodically for any changes. These changes are effective immediately after they are published on this page.
 
 ---
 
