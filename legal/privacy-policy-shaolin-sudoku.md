@@ -11,7 +11,7 @@
 
 ## Reference
 
-The privacy policy that you are reading can be accessed at <https://github.com/newmediaxp/docs/blob/main/legal/privacy-policy-shaolin-sudoku.md>
+The privacy policy that you are reading can be accessed at <https://newmediaxp.github.io/docs/legal/privacy-policy-shaolin-sudoku>
 
 You can learn more about the software that this privacy policy refers to at <https://www.newmediaxp.com/article/shaolin-sudoku>
 
