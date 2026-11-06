@@ -13,7 +13,7 @@
 
 The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-colortris>
 
-You can learn more about the software that this privacy policy refers to at <https://www.newmediaxp.com/article/colortris>
+You can learn more about the software that this privacy policy refers to at <https://www.newmediaxp.com/blog/article/colortris>
 
 ---
 
@@ -33,7 +33,7 @@ In some platforms, the software uses third party services to provide ads, in-app
 
 Privacy policies of these third party service providers :
 
-- <https://unity3d.com/legal/privacy-policy>
+- <https://unity.com/legal/privacy-policy>
 - <https://policies.google.com/privacy>
 - <https://www.yodo1.com/en/privacy>
 
