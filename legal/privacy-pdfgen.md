@@ -11,13 +11,13 @@
 
 ## Reference
 
-The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-policy-pdfgen>
+The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-pdfgen>
 
-The terms of service for PDFGen are at <https://docs.newmediaxp.com/legal/terms-of-service-nmx-website>
+The terms of service for PDFGen are at <https://docs.newmediaxp.com/legal/terms-pdfgen>
 
 You can learn more about PDFGen at <https://www.newmediaxp.com/blog/article/pdfgen>
 
-Last updated: 5 November 2026
+Last updated: 7 November 2026
 
 ---
 

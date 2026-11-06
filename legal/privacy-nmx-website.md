@@ -11,11 +11,11 @@
 
 ## Reference
 
-The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-policy-nmx-website>
+The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-nmx-website>
 
-The terms of service for the NMX website are at <https://docs.newmediaxp.com/legal/terms-of-service-nmx-website>
+The terms of service for the NMX website are at <https://docs.newmediaxp.com/legal/terms-nmx-website>
 
-Last updated: 5 November 2026
+Last updated: 7 November 2026
 
 ---
 
