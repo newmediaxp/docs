@@ -11,46 +11,118 @@
 
 ## Reference
 
-The privacy policy that you are reading can be accessed at <https://newmediaxp.github.io/docs/legal/privacy-policy-shaolin-sudoku>
+The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-policy-shaolin-sudoku>
 
-You can learn more about the software that this privacy policy refers to at <https://www.newmediaxp.com/article/shaolin-sudoku>
+You can learn more about Shaolin Sudoku at <https://www.newmediaxp.com/blog/article/shaolin-sudoku>
+
+Last updated: 6 November 2026
 
 ---
 
 ## About
 
-This page is used to inform concerned parties regarding the policies with the collection, use, and disclosure of personal information they are subjected to for using the software, **Shaolin Sudoku**. If anyone uses the software, then they agree to the collection and use of information in relation to this policy.
+**Shaolin Sudoku** is a sudoku game by New Media XP ("NMX", "we", "us"). This policy covers the game on every platform where we offer it: on Android, on computers, and on web game sites.
 
-There may be additional terms and conditions outside of what is covered in this privacy policy.
+NMX is an independent developer, not a registered company. You can reach us at the contact details at the end of this page.
 
 ---
 
-## Information Collection And Use
+## Information We Collect
 
-We, ourselves, do not collect or store any personal information about the user and will not share or store information collected by any third party. 
+We don't collect personal information ourselves. The game has no account, no analytics and no crash reporting of its own, and we don't sell anything about you.
 
-In some platforms, the software uses third party services to provide ads, in-app purchasing, cloud services, etc. that may collect information used to identify the user. The personal information that is collected is used for providing and improving the service.
+Some versions show ads or sell Premium through other companies, which collect information under their own privacy policies. The sections below say which, and what.
 
-Privacy policies of these third party service providers :
+---
 
-* <https://unity3d.com/legal/privacy-policy>
-* <https://policies.google.com/privacy>
-* <https://www.yodo1.com/en/privacy>
+## What's Saved On Your Device
 
-We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The game saves these on your device. None of it is sent to us.
+
+- **Your settings:** music, sound effects, stopwatch, theme, screen orientation and difficulty.
+- **Your current game:** the puzzle, your entries and notes, your mistakes and the time.
+- **Your records:** up to 999 finished puzzles, each with the name you type for it (up to 8 letters), the puzzle's code, difficulty, mistakes, time, result and date. Records stay on your device. There's no online leaderboard.
+- **Premium**, if you bought it, so it works without an internet connection.
+- **How many times the tutorial has been shown.**
+
+To remove them, uninstall the game, or clear its data in your device's settings. In a browser, clear the game site's data.
+
+---
+
+## Premium
+
+- On Android, Premium is a one-time purchase that unlocks every theme and turns off the ads between games. Google Play takes the payment, under its own privacy policy. We never see your card or other payment details.
+- On computers, Premium is included for free.
+
+---
+
+## Ads
+
+- **On Android**, the free version shows a full-screen ad between some games, and you can choose to watch an ad for an extra mistake. It has no banner ads. The ads come from Unity LevelPlay and the ad networks it works with.
+- **On web game sites**, such as CrazyGames, the site shows its own ads.
+
+To show ads and measure them, these companies receive information from your device, such as your advertising ID, IP address, device model and operating system, and which ads you see and tap. They use it under their own privacy policies.
+
+On Android, you can reset your advertising ID or delete it, and turn off personalized ads, in your device's settings.
+
+---
+
+## Web Game Sites
+
+If you play Shaolin Sudoku on a web game site, such as CrazyGames:
+
+- the site may keep your saved game with your account on that site, if you're signed in to it;
+- the game tells the site when a puzzle ends, for example so it can show a celebration or an ad. It sends nothing about you;
+- the site's own privacy policy applies to what it does.
+
+---
+
+## Puzzle Links And Codes
+
+- You can copy a puzzle's code to share it. A code holds only the puzzle, nothing about you.
+- Shaolin Sudoku's puzzle links open the puzzle in the game. On a computer, the game registers itself in your user account so that these links open in it.
+- Puzzle codes and links are read only on your device.
+
+---
+
+## Stores And Download Sites
+
+If you get the game from Google Play, itch.io, Game Jolt or another store or site, that store handles the download and may collect information about it, under its own privacy policy.
+
+---
+
+## Children
+
+Shaolin Sudoku is for everyone. We don't collect personal information from anyone, including children. If you have a question about the information that ads, stores or web game sites receive from a child's device, contact us.
+
+---
+
+## Your Rights
+
+We hold no information about you, so there is nothing for us to look up, correct or delete. Everything the game saves is on your device, and you can delete it yourself as described above. For information an ad company, store or web game site holds, use the choices in its privacy policy. If you have a question about your privacy, contact us.
 
 ---
 
 ## Changes
 
-This privacy policy may be updated from time to time. The concerned parties are advised to review this page periodically for any changes. These changes are effective immediately after they are published on this page.
+This privacy policy may be updated from time to time. When it changes, the date at the top changes too. If a change is significant, we'll also say so in the game or on our website before it takes effect.
+
+---
+
+## Privacy Policies Of These Companies
+
+- Google (Google Play): <https://policies.google.com/privacy>
+- Unity (Unity LevelPlay): <https://unity.com/legal/game-player-and-app-user-privacy-policy>
+- CrazyGames: <https://www.crazygames.com/privacy-policy>
+- itch.io: <https://itch.io/docs/legal/privacy-policy>
+- Game Jolt: <https://gamejolt.com/privacy>
 
 ---
 
 ## Contact
 
-* Link: <https://www.newmediaxp.com/contact>
-* Email-1: <contact@newmediaxp.com>
-* Email-2: <animaxneil@gmail.com>
+- Link: <https://www.newmediaxp.com/contact>
+- Email-1: <contact@newmediaxp.com>
+- Email-2: <animaxneil@gmail.com>
 
 ---

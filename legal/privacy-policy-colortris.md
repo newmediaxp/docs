@@ -11,7 +11,7 @@
 
 ## Reference
 
-The privacy policy that you are reading can be accessed at <https://newmediaxp.github.io/docs/legal/privacy-policy-colortris>
+The privacy policy that you are reading can be accessed at <https://docs.newmediaxp.com/legal/privacy-policy-colortris>
 
 You can learn more about the software that this privacy policy refers to at <https://www.newmediaxp.com/article/colortris>
 
@@ -33,9 +33,9 @@ In some platforms, the software uses third party services to provide ads, in-app
 
 Privacy policies of these third party service providers :
 
-* <https://unity3d.com/legal/privacy-policy>
-* <https://policies.google.com/privacy>
-* <https://www.yodo1.com/en/privacy>
+- <https://unity3d.com/legal/privacy-policy>
+- <https://policies.google.com/privacy>
+- <https://www.yodo1.com/en/privacy>
 
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
@@ -49,8 +49,8 @@ This privacy policy may be updated from time to time. The concerned parties are 
 
 ## Contact
 
-* Link: <https://www.newmediaxp.com/contact>
-* Email-1: <contact@newmediaxp.com>
-* Email-2: <animaxneil@gmail.com>
+- Link: <https://www.newmediaxp.com/contact>
+- Email-1: <contact@newmediaxp.com>
+- Email-2: <animaxneil@gmail.com>
 
 ---
