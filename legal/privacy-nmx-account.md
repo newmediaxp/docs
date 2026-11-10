@@ -15,7 +15,7 @@ The privacy policy that you are reading can be accessed at <https://docs.newmedi
 
 The terms of service for the NMX Account are at <https://docs.newmediaxp.com/legal/terms-nmx-account>
 
-Last updated: 7 November 2026
+Last updated: 11 November 2026
 
 ---
 
@@ -23,9 +23,9 @@ Last updated: 7 November 2026
 
 The **NMX Account** is the account that apps and websites by New Media XP ("NMX", "we", "us") share. It keeps your purchases, in-app balances and progress, and lets you use them on every device where you sign in.
 
-This policy covers the NMX Account: the sign-in pages and the account page at <https://id.newmediaxp.com>, and the data that NMX apps keep in your account. Each app also has its own privacy policy, which covers what happens inside that app, including any third-party services it uses, such as ads. You can find them all at <https://docs.newmediaxp.com>.
+This policy covers the NMX Account: the sign-in pages and the account page at <https://id.newmediaxp.com>, the **NMX Shop** at <https://shop.newmediaxp.com>, where you can buy items for NMX apps with your NMX Account, and the data that NMX apps keep in your account. Each app also has its own privacy policy, which covers what happens inside that app, including any third-party services it uses, such as ads. You can find them all at <https://docs.newmediaxp.com>.
 
-NMX is an independent developer, not a registered company. NMX decides how the data described here is used, and you can reach us at the contact details at the end of this page.
+NMX is run by Animesh Sarkar, an independent developer, not a registered company. NMX decides how the data described here is used, and you can reach us at the contact details at the end of this page.
 
 ---
 
@@ -63,10 +63,11 @@ We never get your passwords. We don't ask Facebook or Discord for your email add
 
 **Your purchases**
 
-- For each purchase from the Apple App Store, Google Play or our webshop: the store, the store's ID for the purchase, the app and the item, its date, when a subscription ends and whether it renews, whether it was refunded or cancelled, and its price and currency.
+- For each purchase from the Apple App Store, Google Play or the NMX Shop: the store, the store's ID for the purchase, the app and the item, its date, when a subscription ends and whether it renews, whether it was refunded or cancelled, and its price and currency.
+- For a purchase from the NMX Shop, also the tax in its price, and Paddle's ID for you as its customer: a code, not your name or email address.
 - Items given to you by NMX support.
 
-We never see your card or other payment details. The store takes the payment.
+We never see your card or other payment details. The store takes the payment. In the NMX Shop, that's Paddle, our reseller, which also asks for your email address and country to send your receipt and charge the right tax. We don't get your email address from Paddle.
 
 **Your in-app balances**
 
@@ -75,10 +76,6 @@ We never see your card or other payment details. The store takes the payment.
 **Your app data** (full accounts only)
 
 - What an app saves to your account so you can carry on from another device, for example your saved puzzles and settings in Shaolin Sudoku. Each app's privacy policy says what it saves.
-
-**Your Unity players**
-
-- Some apps use Unity's online services, for example for purchases from our webshop. For those apps, we create a Unity player for your account, which Unity knows only by your NMX Account ID, and we keep that player's Unity ID.
 
 **Your account history**
 
@@ -93,10 +90,12 @@ We never see your card or other payment details. The store takes the payment.
 
 - Our sign-in pages set a cookie that holds the state of one sign-in, for up to 10 minutes.
 - When you sign in to an NMX website that uses single sign-on, a cookie on `id.newmediaxp.com` keeps you signed in to NMX for up to 180 days after you last use it, so other NMX websites can sign you in without asking again.
-- The account page keeps its sign-in in your browser tab until you close the tab.
+- The account page and the NMX Shop keep their sign-in in your browser tab until you close the tab.
+- If you choose a light or dark theme, your browser saves that choice on your device. It isn't sent to us.
 - Cloudflare may set its own cookies to protect the site from bots and attacks.
+- In the NMX Shop, Paddle's checkout opens inside our payment page and may set its own cookies, which Paddle's privacy policy covers.
 
-All of these are needed for sign-in and security. We don't use cookies for advertising or analytics.
+Apart from the theme choice, all of these are needed for sign-in, buying and security. We don't use cookies for advertising or analytics.
 
 ---
 
@@ -125,7 +124,7 @@ We don't sell your information, use it for advertising, or use it to track you a
 - **The sign-in provider you choose** (Apple, Google, Meta for Facebook, or Discord). You sign in on their page, so they know that you signed in to NMX.
 - **The Apple App Store and Google Play.** We ask the store to confirm each purchase. Before a purchase, the app gives the store a code made from your account ID, and the store gives it back with the purchase, which helps us spot fraud.
 - **Apple, when you ask Apple for a refund.** If you ask Apple to refund an in-app purchase from an NMX app, Apple may ask us about it. We tell Apple whether the item was delivered and, for items such as coins, how much of it you used. By buying in-app items in an NMX app from the App Store, you agree that we can share this with Apple.
-- **Unity**, for apps that use Unity's online services. Unity knows your player by your NMX Account ID. When you buy from our webshop, Unity tells us about the order so we can deliver it.
+- **Paddle**, our reseller for the NMX Shop. When you start a purchase, we give Paddle your account ID and the app and item, so your payment comes back to your account. Paddle tells us when you've paid, and when a purchase is refunded or charged back. Paddle sells you the item and takes the payment as the Merchant of Record, so what you give Paddle at the checkout is covered by Paddle's own privacy policy. When the NMX Shop shows you a price, Paddle sees your IP address, which it uses to show the price in your currency with the right tax.
 
 We don't share your information with anyone else, unless the law requires it, or it's needed to protect our users or NMX from fraud or abuse. If NMX or its apps ever pass to a new owner, the NMX Account would move with them, and this policy would still apply to your information.
 
@@ -136,20 +135,20 @@ Privacy policies of these companies:
 - Google: <https://policies.google.com/privacy>
 - Meta (Facebook): <https://www.facebook.com/privacy/policy/>
 - Discord: <https://discord.com/privacy>
-- Unity: <https://unity.com/legal/privacy-policy>
+- Paddle: <https://www.paddle.com/legal/privacy>
 
 ---
 
 ## Where It's Stored
 
-The NMX Account runs on Cloudflare's network, and the companies above are mostly based in the United States. Your information may be processed outside your country. When it leaves the European Economic Area or the United Kingdom, these companies protect it with the safeguards the law requires, such as the European Commission's standard contractual clauses.
+The NMX Account runs on Cloudflare's network, and the companies above are mostly based in the United States (Paddle is in the United Kingdom). Your information may be processed outside your country. When it leaves the European Economic Area or the United Kingdom, these companies protect it with the safeguards the law requires, such as the European Commission's standard contractual clauses.
 
 ---
 
 ## How Long We Keep It
 
 - **Your account:** until you delete it.
-- **Guest accounts:** a guest account that hasn't been used for 180 days and has no purchases is deleted automatically, along with its Unity players.
+- **Guest accounts:** a guest account that hasn't been used for 180 days and has no purchases is deleted automatically.
 - **Signed-in devices:** an install stays signed in until you sign out, or until 180 days after it was last used. We delete its record 30 days after that.
 - **Cloudflare's request logs:** a few days.
 - **Backups:** copies of the database are kept for up to 30 days.
@@ -163,11 +162,10 @@ You can delete your account in any NMX app that uses it, or on your account page
 When you delete your account:
 
 - We delete your sign-in methods, the devices you're signed in on, your app data and your balances straight away, and tell Apple to disconnect NMX from your Apple account.
-- We ask Unity to delete your Unity players. That usually takes minutes, and we keep retrying until it's done.
 - We keep your purchase records, which no longer link to you, because we need them to handle refunds and for accounting and tax. We also keep your account ID marked as deleted, with its history, which no longer leads to you.
 - Copies in our backups are gone within 30 days.
 
-**Deleting your account doesn't cancel a subscription.** Cancel it in the App Store or Google Play, or the store will keep charging you.
+**Deleting your account doesn't cancel a subscription.** Cancel it with the store you bought it from, in the App Store or Google Play, or for the NMX Shop at <https://paddle.net>, or the store will keep charging you.
 
 **Removing one sign-in method:** you can remove a sign-in method on your account page, as long as you keep at least one. If you stop using Sign in with Apple for NMX in your Apple account settings, or remove NMX from the apps in your Facebook settings, we remove that sign-in method from your NMX Account. When you stop using Sign in with Apple, we also sign your account out on all your devices.
 

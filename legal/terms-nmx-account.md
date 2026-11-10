@@ -15,17 +15,21 @@ The terms of service that you are reading can be accessed at <https://docs.newme
 
 The privacy policy for the NMX Account is at <https://docs.newmediaxp.com/legal/privacy-nmx-account>
 
-Last updated: 7 November 2026
+The refund policy for the NMX Shop is at <https://docs.newmediaxp.com/legal/refunds-nmx-shop>
+
+Last updated: 11 November 2026
 
 ---
 
 ## About
 
-These terms are an agreement between you and New Media XP ("NMX", "we", "us") about the **NMX Account**: the account that NMX apps and websites share, and the sign-in pages and account page at <https://id.newmediaxp.com>.
+New Media XP ("NMX", "we", "us") is run by Animesh Sarkar, an independent developer.
+
+These terms are an agreement between you and NMX about the **NMX Account**: the account that NMX apps and websites share, the sign-in pages and account page at <https://id.newmediaxp.com>, and the **NMX Shop** at <https://shop.newmediaxp.com>, where you can buy items for NMX apps with your NMX Account.
 
 By creating or using an NMX Account, including a guest account that an app creates for you, you agree to these terms. If you don't agree, don't use the account features.
 
-Each app may have its own terms, and the terms of the app store you buy from also apply to your purchases. Our privacy policy explains what we do with your information.
+Each app may have its own terms, and the terms of the store you buy from also apply to your purchases. Our privacy policy explains what we do with your information.
 
 ---
 
@@ -47,11 +51,14 @@ You must be at least 13 to sign in with a provider, or older if the law in your 
 
 ## Purchases
 
-- You buy through the Apple App Store, Google Play or our webshop, which Unity runs for us. Their terms, payment rules and refund rules apply, and you ask them for refunds.
-- A purchase belongs to the account that first records it. It works in its app on every device where you sign in to that account. On the device you bought it on, the store's own record keeps working too.
+- You buy through a store: the Apple App Store, Google Play or the NMX Shop. Each store's terms and payment rules apply to what you buy there.
+- **The NMX Shop.** Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders: Paddle sells you the item, takes the payment, charges any tax and sends your receipt, and your card statement shows Paddle. Paddle answers questions about payments and handles refunds. Paddle's Buyer Terms apply to every NMX Shop order: <https://www.paddle.com/legal/buyer-terms>. You need to sign in with your NMX Account to buy in the NMX Shop, and what you buy is kept on that account.
+- **Refunds.** For the App Store and Google Play, ask the store: its refund rules apply. For the NMX Shop, our refund policy explains when a refund is available and how to ask for one: <https://docs.newmediaxp.com/legal/refunds-nmx-shop>.
+- A purchase belongs to the account that first records it. It works in its app on every device where you sign in to that account. For an App Store or Google Play purchase, the store's own record keeps working on the device you bought it on too.
 - A one-time purchase, such as Premium, lasts for as long as we offer the app it belongs to and your account exists.
-- Subscriptions renew through the store until you cancel them there. **Deleting your NMX Account doesn't cancel a subscription.**
-- If a purchase is refunded or charged back, we take back what it gave you. For in-app currency, your balance can go below zero, and later credits pay that off first.
+- Some items, such as a pass, include items in other NMX apps. Those items work in their apps for as long as the item that includes them lasts.
+- Subscriptions renew until you cancel them with the store you bought from: in the App Store or Google Play, or for the NMX Shop at <https://paddle.net>. **Deleting your NMX Account doesn't cancel a subscription.**
+- If a purchase is refunded or charged back, we take back what it gave you, including any items it includes. For in-app currency, your balance can go below zero, and later credits pay that off first.
 
 ---
 
@@ -77,7 +84,7 @@ You must not:
 
 ## Suspension And Ending
 
-- We may suspend or ban an account that breaks these terms, and remove what was gained by breaking them. A ban stops sign-in, saving to your account and using purchases on other devices. A store purchase still works on the device where you bought it.
+- We may suspend or ban an account that breaks these terms, and remove what was gained by breaking them. A ban stops sign-in, saving to your account and using purchases on other devices. An App Store or Google Play purchase still works on the device where you bought it.
 - If you think we got it wrong, contact us and we'll look at it again.
 - You can stop using your account and delete it at any time, as our privacy policy explains.
 

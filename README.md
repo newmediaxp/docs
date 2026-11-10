@@ -16,6 +16,9 @@
         - Privacy Policy [(link)](./legal/privacy-nmx-account.md)
         - Terms of Service [(link)](./legal/terms-nmx-account.md)
 
+    - NMX Shop (its privacy policy and terms of service are the NMX Account's)
+        - Refund Policy [(link)](./legal/refunds-nmx-shop.md)
+
     - NMX Website
         - Privacy Policy [(link)](./legal/privacy-nmx-website.md)
         - Terms of Service [(link)](./legal/terms-nmx-website.md)
