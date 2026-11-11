@@ -31,7 +31,7 @@ NMX is run by Animesh Sarkar, an independent developer, not a registered company
 
 ## Guest Accounts And Full Accounts
 
-- **Guest account:** when an app first needs an account, for example to record a purchase, it creates one for you without asking you to sign in. A guest account has no sign-in method and nothing that names you. It lives on one device.
+- **Guest account:** when an app first needs an account, for example to record a purchase, it creates one for you without asking you to sign in. A guest account has no sign-in method, and nothing that names you unless you choose a username that does. It lives on one device.
 - **Full account:** signing in is optional. When you sign in with Apple, Google, Facebook or Discord, your account becomes a full account, which you can use on any device. The sign-in methods on offer can differ between apps and platforms.
 
 ---
@@ -41,6 +41,9 @@ NMX is run by Animesh Sarkar, an independent developer, not a registered company
 **Your account**
 
 - An account ID: a random code we create. Its first part records when the account was made.
+- A username: a name such as BraveOtter4821 that we choose at random when the account is made, and that you can change. Other people may see it in NMX apps, for example on a leaderboard or in a chat.
+- Your earlier usernames and when you stopped using them, so we can find your account if you tell us an old one, and so nobody else can take a name for 30 days after you change it.
+- When you last changed your username, since it can be changed once every 100 days.
 - The account's status (active, banned, merged or deleted), and the reason for a ban.
 
 **Your sign-in methods** (full accounts only)
@@ -103,6 +106,7 @@ Apart from the theme choice, all of these are needed for sign-in, buying and sec
 
 - To create your account, sign you in and keep you signed in.
 - To give you your purchases, balances and progress on every device where you sign in, and to restore your purchases.
+- To show your username to other people in NMX apps that have features such as leaderboards or chat, and to find your account when you contact us.
 - To combine two of your accounts when you choose to merge them. If you restore a purchase that belongs to a guest account, that guest account is combined into the account you're using.
 - To keep the service secure and to prevent fraud and abuse, such as too many requests, or refunds of items that were already used.
 - To answer your questions and fix problems.
@@ -120,6 +124,7 @@ We don't sell your information, use it for advertising, or use it to track you a
 
 ## Who We Share It With
 
+- **Other people using NMX apps** can see your username, for example on a leaderboard or in a chat. They don't see your account ID, your sign-in methods or anything else in your account. If you'd rather not be recognized, choose a username that isn't your real name, or keep the random one.
 - **Cloudflare** hosts the NMX Account and its database and protects it from attacks.
 - **The sign-in provider you choose** (Apple, Google, Meta for Facebook, or Discord). You sign in on their page, so they know that you signed in to NMX.
 - **The Apple App Store and Google Play.** We ask the store to confirm each purchase. Before a purchase, the app gives the store a code made from your account ID, and the store gives it back with the purchase, which helps us spot fraud.
@@ -148,6 +153,7 @@ The NMX Account runs on Cloudflare's network, and the companies above are mostly
 ## How Long We Keep It
 
 - **Your account:** until you delete it.
+- **Earlier usernames:** for as long as your account exists.
 - **Guest accounts:** a guest account that hasn't been used for 180 days and has no purchases is deleted automatically.
 - **Signed-in devices:** an install stays signed in until you sign out, or until 180 days after it was last used. We delete its record 30 days after that.
 - **Cloudflare's request logs:** a few days.
@@ -161,7 +167,7 @@ You can delete your account in any NMX app that uses it, or on your account page
 
 When you delete your account:
 
-- We delete your sign-in methods, the devices you're signed in on, your app data and your balances straight away, and tell Apple to disconnect NMX from your Apple account.
+- We delete your username, your earlier usernames, your sign-in methods, the devices you're signed in on, your app data and your balances straight away, and tell Apple to disconnect NMX from your Apple account.
 - We keep your purchase records, which no longer link to you, because we need them to handle refunds and for accounting and tax. We also keep your account ID marked as deleted, with its history, which no longer leads to you.
 - Copies in our backups are gone within 30 days.
 
@@ -181,7 +187,7 @@ Depending on where you live, you can ask us to:
 - limit or stop some uses of it;
 - give it to you in a form you can move to another service.
 
-Your account page shows your sign-in methods and what you own, and lets you add or remove sign-in methods and delete your account. For anything else, email us. We'll ask you to show the account is yours, for example by signing in, and we'll answer within one month.
+Your account page shows your username, your sign-in methods and what you own, and lets you change your username, add or remove sign-in methods and delete your account. For anything else, email us. We'll ask you to show the account is yours, for example by signing in, and we'll answer within one month.
 
 You can also complain to the data protection authority where you live.
 
@@ -189,7 +195,7 @@ You can also complain to the data protection authority where you live.
 
 ## Children
 
-NMX apps are for everyone. Signing in with a provider is for people old enough to agree to this policy themselves: at least 13, or older where the law in their country requires it (up to 16 in some EU countries). Younger children should use NMX apps without signing in. If you think a child has signed in without a parent's permission, contact us and we'll delete the account.
+NMX apps are for everyone. Signing in with a provider is for people old enough to agree to this policy themselves: at least 13, or older where the law in their country requires it (up to 16 in some EU countries). Younger children should use NMX apps without signing in. Every account, a guest account too, has a username that other people may see. We choose it at random and turn down rude names, and we suggest children keep the random one, or choose one without their real name. If you think a child has signed in without a parent's permission, contact us and we'll delete the account.
 
 ---
 

@@ -38,6 +38,7 @@ Each app may have its own terms, and the terms of the store you buy from also ap
 - **Guest accounts.** An app creates a guest account the first time it needs one. A guest account lives on one device: if you uninstall the app or lose the device before you sign in, the guest account and its balances can be lost. Purchases from the App Store or Google Play can still come back with Restore Purchases.
 - **Signing in.** Signing in with Apple, Google, Facebook or Discord turns your account into a full account that you can use on any device. You can add more than one sign-in method.
 - **Keep a way in.** We don't use passwords, so your sign-in methods are the only way into your account. If you lose all of them, we may not be able to get your account back.
+- **Your username.** Every account gets a username that we choose at random, and other people may see it in NMX apps. You can change a random username whenever you like. Once you've chosen one yourself, you can change it again after 100 days; changing only its capital letters doesn't count. Each username belongs to one account at a time, and a name you stop using stays with your account for 30 days before anyone else can choose it.
 - **Your responsibility.** You're responsible for what happens in your account. Don't share, sell or trade it.
 - **Merging.** If you add a sign-in method that already belongs to another full account, you can merge the two. A merge moves everything from the other account into this one, and it can't be undone.
 
@@ -77,6 +78,7 @@ You must not:
 - cheat, or use bugs, hacks or modified apps to get items, currency or progress;
 - use bots or scripts with the NMX Account, or try to overload it, break into it, or get around its limits or security;
 - use someone else's account without their permission;
+- choose a username that is rude or hurtful, that pretends to be someone else, or that suggests you speak for NMX;
 - abuse purchases or refunds, for example by asking for a refund of something you've already used;
 - use the NMX Account to break the law, or the rules of the app stores and sign-in providers.
 
@@ -85,6 +87,7 @@ You must not:
 ## Suspension And Ending
 
 - We may suspend or ban an account that breaks these terms, and remove what was gained by breaking them. A ban stops sign-in, saving to your account and using purchases on other devices. An App Store or Google Play purchase still works on the device where you bought it.
+- If a username doesn't follow these rules, we may replace it with a new random one. You're welcome to choose a new username straight away, as long as it follows these rules.
 - If you think we got it wrong, contact us and we'll look at it again.
 - You can stop using your account and delete it at any time, as our privacy policy explains.
 
