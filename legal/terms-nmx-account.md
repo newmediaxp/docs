@@ -17,7 +17,7 @@ The privacy policy for the NMX Account is at <https://docs.newmediaxp.com/legal/
 
 The refund policy for the NMX Shop is at <https://docs.newmediaxp.com/legal/refunds-nmx-shop>
 
-Last updated: 11 November 2026
+Last updated: 17 November 2026
 
 ---
 
@@ -36,7 +36,7 @@ Each app may have its own terms, and the terms of the store you buy from also ap
 ## Your Account
 
 - **Guest accounts.** An app creates a guest account the first time it needs one. A guest account lives on one device: if you uninstall the app or lose the device before you sign in, the guest account and its balances can be lost. Purchases from the App Store or Google Play can still come back with Restore Purchases.
-- **Signing in.** Signing in with Apple, Google, Facebook or Discord turns your account into a full account that you can use on any device. You can add more than one sign-in method.
+- **Signing in.** Signing in with Apple, Google, Facebook, Discord or itch.io turns your account into a full account that you can use on any device. You can add more than one sign-in method.
 - **Keep a way in.** We don't use passwords, so your sign-in methods are the only way into your account. If you lose all of them, we may not be able to get your account back.
 - **Your username.** Every account gets a username that we choose at random, and other people may see it in NMX apps. You can change a random username whenever you like. Once you've chosen one yourself, you can change it again after 100 days; changing only its capital letters doesn't count. Each username belongs to one account at a time, and a name you stop using stays with your account for 30 days before anyone else can choose it.
 - **Your responsibility.** You're responsible for what happens in your account. Don't share, sell or trade it.
@@ -54,7 +54,9 @@ You must be at least 13 to sign in with a provider, or older if the law in your 
 
 - You buy through a store: the Apple App Store, Google Play or the NMX Shop. Each store's terms and payment rules apply to what you buy there.
 - **The NMX Shop.** Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders: Paddle sells you the item, takes the payment, charges any tax and sends your receipt, and your card statement shows Paddle. Paddle answers questions about payments and handles refunds. Paddle's Buyer Terms apply to every NMX Shop order: <https://www.paddle.com/legal/buyer-terms>. You need to sign in with your NMX Account to buy in the NMX Shop, and what you buy is kept on that account.
-- **Refunds.** For the App Store and Google Play, ask the store: its refund rules apply. For the NMX Shop, our refund policy explains when a refund is available and how to ask for one: <https://docs.newmediaxp.com/legal/refunds-nmx-shop>.
+- **itch.io.** If you bought something on NMX's itch.io pages, such as Shaolin Sudoku Premium, you can add it to your NMX Account: sign in with itch.io, or use the download link from your itch.io receipt on your account's Redeem page. If you bought an item sold as a separately priced file without an itch.io account, its download link can't show what you paid, so contact us and we'll add it for you. itch.io sold it to you, so itch.io's terms apply to that purchase: <https://itch.io/docs/legal/terms>. Each itch.io purchase can be added to one NMX Account.
+- **Codes.** We sometimes give out codes for an item, for example in a giveaway or to help with a purchase. You redeem a code on your account's Redeem page, and what it's for is added to your NMX Account. Each code works once, for one NMX Account, and some have a date to redeem them by. If you already have the item, the code isn't used up, so you're welcome to pass it on. Codes are free and have no cash value, so please don't sell them. If a code was sold, or reached you by mistake, we may stop it or remove what it added.
+- **Refunds.** For the App Store, Google Play and itch.io, ask the store: its refund rules apply. For the NMX Shop, our refund policy explains when a refund is available and how to ask for one: <https://docs.newmediaxp.com/legal/refunds-nmx-shop>.
 - A purchase belongs to the account that first records it. It works in its app on every device where you sign in to that account. For an App Store or Google Play purchase, the store's own record keeps working on the device you bought it on too.
 - A one-time purchase, such as Premium, lasts for as long as we offer the app it belongs to and your account exists.
 - Some items, such as a pass, include items in other NMX apps. Those items work in their apps for as long as the item that includes them lasts.

@@ -15,7 +15,7 @@ The privacy policy that you are reading can be accessed at <https://docs.newmedi
 
 The terms of service for the NMX Account are at <https://docs.newmediaxp.com/legal/terms-nmx-account>
 
-Last updated: 11 November 2026
+Last updated: 17 November 2026
 
 ---
 
@@ -32,7 +32,7 @@ NMX is run by Animesh Sarkar, an independent developer, not a registered company
 ## Guest Accounts And Full Accounts
 
 - **Guest account:** when an app first needs an account, for example to record a purchase, it creates one for you without asking you to sign in. A guest account has no sign-in method, and nothing that names you unless you choose a username that does. It lives on one device.
-- **Full account:** signing in is optional. When you sign in with Apple, Google, Facebook or Discord, your account becomes a full account, which you can use on any device. The sign-in methods on offer can differ between apps and platforms.
+- **Full account:** signing in is optional. When you sign in with Apple, Google, Facebook, Discord or itch.io, your account becomes a full account, which you can use on any device. The sign-in methods on offer can differ between apps and platforms.
 
 ---
 
@@ -54,10 +54,12 @@ NMX is run by Animesh Sarkar, an independent developer, not a registered company
     - Apple: your email address, or the private relay address Apple makes if you choose to hide your email.
     - Facebook: your name.
     - Discord: your display name.
+    - itch.io: your display name, or your itch.io username if you haven't set one.
 - When you added the sign-in method.
+- itch.io only: when we last checked it for purchases on NMX's itch.io pages.
 - Apple only: a token from Apple, stored encrypted. We use it only to tell Apple to disconnect NMX from your Apple account when you delete your NMX Account.
 
-We never get your passwords. We don't ask Facebook or Discord for your email address.
+We never get your passwords. We don't ask Facebook, Discord or itch.io for your email address.
 
 **The devices you're signed in on**
 
@@ -68,6 +70,8 @@ We never get your passwords. We don't ask Facebook or Discord for your email add
 
 - For each purchase from the Apple App Store, Google Play or the NMX Shop: the store, the store's ID for the purchase, the app and the item, its date, when a subscription ends and whether it renews, whether it was refunded or cancelled, and its price and currency.
 - For a purchase from the NMX Shop, also the tax in its price, and Paddle's ID for you as its customer: a code, not your name or email address.
+- For a purchase on NMX's itch.io pages that you add to your account: the page, the app and the item, itch.io's ID for your download key, and when you got it. We don't keep the download link itself.
+- For a code you redeem: the code, the app and the item, and when you redeemed it.
 - Items given to you by NMX support.
 
 We never see your card or other payment details. The store takes the payment. In the NMX Shop, that's Paddle, our reseller, which also asks for your email address and country to send your receipt and charge the right tax. We don't get your email address from Paddle.
@@ -126,10 +130,11 @@ We don't sell your information, use it for advertising, or use it to track you a
 
 - **Other people using NMX apps** can see your username, for example on a leaderboard or in a chat. They don't see your account ID, your sign-in methods or anything else in your account. If you'd rather not be recognized, choose a username that isn't your real name, or keep the random one.
 - **Cloudflare** hosts the NMX Account and its database and protects it from attacks.
-- **The sign-in provider you choose** (Apple, Google, Meta for Facebook, or Discord). You sign in on their page, so they know that you signed in to NMX.
+- **The sign-in provider you choose** (Apple, Google, Meta for Facebook, Discord, or itch.io). You sign in on their page, so they know that you signed in to NMX.
 - **The Apple App Store and Google Play.** We ask the store to confirm each purchase. Before a purchase, the app gives the store a code made from your account ID, and the store gives it back with the purchase, which helps us spot fraud.
 - **Apple, when you ask Apple for a refund.** If you ask Apple to refund an in-app purchase from an NMX app, Apple may ask us about it. We tell Apple whether the item was delivered and, for items such as coins, how much of it you used. By buying in-app items in an NMX app from the App Store, you agree that we can share this with Apple.
 - **Paddle**, our reseller for the NMX Shop. When you start a purchase, we give Paddle your account ID and the app and item, so your payment comes back to your account. Paddle tells us when you've paid, and when a purchase is refunded or charged back. Paddle sells you the item and takes the payment as the Merchant of Record, so what you give Paddle at the checkout is covered by Paddle's own privacy policy. When the NMX Shop shows you a price, Paddle sees your IP address, which it uses to show the price in your currency with the right tax.
+- **itch.io**, where NMX has pages that sell some apps and items. If itch.io is one of your sign-in methods, we ask itch.io whether your itch.io account owns one of our pages and, for an item sold as a separately priced file, how much you paid: when you add it or sign in with it, and, at most once every 10 minutes, when you sign in another way, open your Purchases page, or restore purchases in an app. When you give us a download link from an itch.io receipt, we ask itch.io which of our pages it's for and, for a separately priced file, how much the itch.io account that has it paid. We don't keep what you paid. itch.io sold you the item, so what you gave itch.io when you bought it is covered by itch.io's own privacy policy.
 
 We don't share your information with anyone else, unless the law requires it, or it's needed to protect our users or NMX from fraud or abuse. If NMX or its apps ever pass to a new owner, the NMX Account would move with them, and this policy would still apply to your information.
 
@@ -140,6 +145,7 @@ Privacy policies of these companies:
 - Google: <https://policies.google.com/privacy>
 - Meta (Facebook): <https://www.facebook.com/privacy/policy/>
 - Discord: <https://discord.com/privacy>
+- itch.io: <https://itch.io/docs/legal/privacy-policy>
 - Paddle: <https://www.paddle.com/legal/privacy>
 
 ---
